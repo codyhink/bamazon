@@ -4,7 +4,7 @@
 
 This application is a spinoff of amazon that utilized Node and MySQL. It's the future!
 
-##Customer Interface
+## Customer Interface
 
 The customer will be given a list of items to purchase. The interface shows the user the name of the item, the department, and the price.
 Once the customer makes a selection, they are asked what quantity they would like to purchase. If they select a quantity that is in stock,
